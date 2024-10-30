@@ -1,8 +1,12 @@
-# Header 1
-full name
+# Полное имя 
+Алексей Иванов
 
-## Header 2
-about me
+### Контактная информация
+Телефон: +375 29 183-18-11
+Email: pavel_sobolev_98@mail.ru
+GitHub: https://github.com/Pavel-Sobolev7
 
-
-
+### Контактная информация
+Телефон: +375 29 183-18-11
+Email: pavel_sobolev_98@mail.ru
+GitHub: https://github.com/Pavel-Sobolev7
