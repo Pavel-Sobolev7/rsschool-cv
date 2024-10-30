@@ -6,7 +6,8 @@
 - Telegram: @pavvlodar
 - Instagram: @pavvlodar
 - Email: *pavel_sobolev_98@mail.ru*
-- GitHub: *https://github.com/Pavel-Sobolev7*
+- GitHub: *https://github.com/Pavel-Sobolev7*  
+
 ---
 
 ### Brief introduction
