@@ -1,1 +1,1 @@
-https://Pavel-Sobolev7.github.io/rsschool-cv/cv
+https://Pavel-Sobolev7.github.io/rsschool-cv/
